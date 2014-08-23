@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+  <title>V</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("http://upload.wikimedia.org/wikipedia/commons/6/6c/London_Eye_at_night_2.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: black;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <img src="http://aintnogod.com/images/V-for-Vendetta.gif">
+  <p>Hi! I'm V, a coding noob.</p>
+  <p>Say hello!</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
